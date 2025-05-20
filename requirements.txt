@@ -1,0 +1,20 @@
+# Core Libraries
+numpy>=1.23.0
+requests>=2.28.0
+matplotlib>=3.6.0
+pillow>=9.3.0
+uuid
+
+# Image Processing
+opencv-python-headless>=4.7.0
+scikit-image>=0.19.0
+
+# YOLOv8 and Deep Learning
+torch>=1.13.0
+ultralytics>=8.0.20
+
+# PDQ Hash
+pdqhash>=1.0.0
+
+# Optional (for better logs)
+tqdm>=4.64.0
